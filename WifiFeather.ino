@@ -4,8 +4,8 @@
  
 #include <ESP8266WiFi.h>
  
-const char* ssid     = "NETGEAR26";
-const char* password = "magicalunit438";
+const char* ssid     = "BroadcastSSID";
+const char* password = "Password";
  
 const char* host = "wifitest.adafruit.com";
  
